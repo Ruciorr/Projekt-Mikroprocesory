@@ -2,9 +2,9 @@
 
 
 1. Układy IO
+
 1.1 Wyjścia Cyfrowe OUT
-Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski & Wojciech
-Leszczyński & Wojciech Tylman
+Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski & Wojciech Leszczyński & Wojciech Tylman
 Deadline : 31.12.2022
 - ogarniamy elementy ( dioda, tranzystor, przekaźnik, układ zasilany 12V, napięcie
 sterujące 3V3)
