@@ -8,7 +8,11 @@
 Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski & Wojciech Leszczyński & Wojciech Tylman
 
 Deadline : 31.12.2022
-Resultat : Nie wykonano
+
+#1 Update:
+
+Rezultat : Nie wykonano
+
 Drugi Deadline : 06.01.2023 włącznie.
 
 - ogarniamy elementy ( dioda, tranzystor, przekaźnik, układ zasilany 12V, napięcie
@@ -22,7 +26,11 @@ sterujące 3V3)
 Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski
 
 Deadline : 31.12.2022
-Resultat : Nie wykonano
+
+#1 Update:
+
+Rezultat : Nie wykonano
+
 Drugi Deadline : 06.01.2023 włącznie.
 
 - podłączenie płytki Nucleo i stworzenie najprostszego kodu wyzwalającego wyjście
@@ -36,7 +44,11 @@ Drugi Deadline : 06.01.2023 włącznie.
 Odpowiedzialny za zadanie : Wojciech Leszczyński & Wojciech Tylman
 
 Deadline : 31.12.2022
-Resultat : Nie wykonano
+
+#1 Update:
+
+Rezultat : Nie wykonano
+
 Drugi Deadline : 06.01.2023 włącznie.
 
 1.2.1 Testy Elektryczne( sterowanie z poziomu Nucleo)
@@ -53,7 +65,11 @@ Drugi Deadline : 06.01.2023 włącznie.
 Odpowiedzialny za zadanie : Adam Tęgowski
 
 Deadline : 31.12.2022
-Resultat : Nie wykonano
+
+#1 Update:
+
+Rezultat : Nie wykonano
+
 Drugi Deadline : 06.01.2023 włącznie.
 
 2.2 Biblioteka
@@ -66,6 +82,8 @@ funkcji.
 2.3 Testy RF
 
 Odpowiedzialny za zadanie : Jakub Musiał & Kajetan Pluta
+
+#1 Update:
 
 Deadline : 10.01.2023
 
@@ -94,7 +112,11 @@ Wstępny deadline : 15.01.2022
 Odpowiedzialny za zadanie : Mateusz Muszczyński
 
 Deadline : 31.12.2022
-Resultat : Nie wykonano
+
+#1 Update:
+
+Rezultat : Nie wykonano
+
 Drugi Deadline : 06.01.2023 włącznie.
 
 
