@@ -8,6 +8,8 @@
 Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski & Wojciech Leszczyński & Wojciech Tylman
 
 Deadline : 31.12.2022
+Resultat : Nie wykonano
+Drugi Deadline : 06.01.2023 włącznie.
 
 - ogarniamy elementy ( dioda, tranzystor, przekaźnik, układ zasilany 12V, napięcie
 sterujące 3V3)
@@ -20,6 +22,8 @@ sterujące 3V3)
 Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski
 
 Deadline : 31.12.2022
+Resultat : Nie wykonano
+Drugi Deadline : 06.01.2023 włącznie.
 
 - podłączenie płytki Nucleo i stworzenie najprostszego kodu wyzwalającego wyjście
 (włącza, wyłącza w jakimś Timerze)
@@ -32,6 +36,8 @@ Deadline : 31.12.2022
 Odpowiedzialny za zadanie : Wojciech Leszczyński & Wojciech Tylman
 
 Deadline : 31.12.2022
+Resultat : Nie wykonano
+Drugi Deadline : 06.01.2023 włącznie.
 
 1.2.1 Testy Elektryczne( sterowanie z poziomu Nucleo)
 
@@ -47,6 +53,8 @@ Deadline : 31.12.2022
 Odpowiedzialny za zadanie : Adam Tęgowski
 
 Deadline : 31.12.2022
+Resultat : Nie wykonano
+Drugi Deadline : 06.01.2023 włącznie.
 
 2.2 Biblioteka
 
@@ -59,7 +67,7 @@ funkcji.
 
 Odpowiedzialny za zadanie : Jakub Musiał & Kajetan Pluta
 
-Deadline : 08.01.2023
+Deadline : 10.01.2023
 
 - sprawozdanie (do mnie/github/ ma być zrozumiałe)
 - sprawozdanie na podstawe gotowej biblioteki, testy komunikacji na różnych
@@ -86,6 +94,9 @@ Wstępny deadline : 15.01.2022
 Odpowiedzialny za zadanie : Mateusz Muszczyński
 
 Deadline : 31.12.2022
+Resultat : Nie wykonano
+Drugi Deadline : 06.01.2023 włącznie.
+
 
 - schemat
 - płytka
