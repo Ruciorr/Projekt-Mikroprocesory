@@ -126,4 +126,3 @@ Drugi Deadline : 06.01.2023 włącznie.
 Dokumentacja produkcyjna:
 - pliki GERBER
 - BOM ( wykaz elementów będących na płytce)
-[Sprawozdanie automatyka1.odt](https://github.com/Ruciorr/Projekt-Mikroprocesory/files/10333273/Sprawozdanie.automatyka1.odt)
