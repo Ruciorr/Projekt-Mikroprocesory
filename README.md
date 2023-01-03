@@ -49,14 +49,14 @@ Deadline : 31.12.2022
 
 Rezultat : Nie wykonano
 
+Drugi Deadline : 06.01.2023 włącznie.
+
 #2 Update:
 
 Rezultat : Wykonano. 
 
 Sprawozdanie : [1.2_wejscia_cyfrowe_in.docx.odt](https://github.com/Ruciorr/Projekt-Mikroprocesory/files/10336484/1.2_wejscia_cyfrowe_in.docx.odt)
 
-
-Drugi Deadline : 06.01.2023 włącznie.
 
 1.2.1 Testy Elektryczne( sterowanie z poziomu Nucleo)
 
