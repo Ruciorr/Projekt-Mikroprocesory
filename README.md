@@ -180,3 +180,5 @@ Dokumentacja produkcyjna:
 Wykaz zakupionych elemnetów, nazwa, ilość, cena.
 
 ![elementy](https://user-images.githubusercontent.com/120726101/215521079-9fc7ae48-a0d9-4afd-a396-11a74b1d5dfc.png)
+![elementy1](https://user-images.githubusercontent.com/120726101/215523700-8983bd4b-d0cb-4f8a-9026-c3f59694ae89.png)
+
