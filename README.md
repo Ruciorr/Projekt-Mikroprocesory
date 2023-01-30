@@ -29,7 +29,7 @@ sterujące 3V3)
 
 1.1.1 Testy Elektryczne( sterowanie z poziomu Nucleo)
 
-Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski
+Odpowiedzialny za zadanie : Paweł Laskowki & Kacper Mochalski           Wsparcie: Kacper Musiał & Kajetan Pluta & Jakub Musiał
 
 Deadline : 31.12.2022
 
@@ -53,7 +53,7 @@ Trzeci Deadline : 15.01.2023 włącznie.
 
 1.2 Wejścia cyfrowe IN
 
-Odpowiedzialny za zadanie : Wojciech Leszczyński & Wojciech Tylman
+Odpowiedzialny za zadanie : Wojciech Leszczyński & Wojciech Tylman                       Wsparcie: Kacper Musiał & Jakub Musiał
 
 Deadline : 31.12.2022
 
@@ -173,3 +173,8 @@ Trzeci Deadline : 15.01.2023 włącznie.
 Dokumentacja produkcyjna:
 - pliki GERBER
 - BOM ( wykaz elementów będących na płytce)
+
+
+Wykaz zakupionych elemnetów, nazwa, ilość, cena.
+
+![elementy](https://user-images.githubusercontent.com/120726101/215521079-9fc7ae48-a0d9-4afd-a396-11a74b1d5dfc.png)
