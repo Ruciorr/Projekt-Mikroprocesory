@@ -1,6 +1,9 @@
 # Projekt-Mikroprocesory
 
 
+Podsumowanie:
+
+
 1. Układy IO
 
 1.1 Wyjścia Cyfrowe OUT
@@ -26,6 +29,9 @@ sterujące 3V3)
 - składamy elektronikę
 
 
+Podsumowanie: Z wywiadu wiem, że elementy zostały zakupione, układy Input/ Output testowano pod okiem prowadzącego. Żadne sprawozdania, zdjęcia, czy filmiki do mnie nie dotarły.
+
+
 
 1.1.1 Testy Elektryczne( sterowanie z poziomu Nucleo)
 
@@ -49,6 +55,9 @@ Trzeci Deadline : 15.01.2023 włącznie.
 - podłączenie płytki Nucleo i stworzenie najprostszego kodu wyzwalającego wyjście
 (włącza, wyłącza w jakimś Timerze)
 - sprawozdanie (do mnie/github/ ma być zrozumiałe)
+
+
+Podsumowanie: Podpunkt niezrealizowany. Żadnych informacji zwrotnych.
 
 
 
@@ -88,6 +97,11 @@ Trzeci Deadline : 15.01.2023 włącznie.
 - sprawozdanie (do mnie/github/ ma być zrozumiałe)
 
 
+
+Podsumowanie: Efektem pracy tego zagadnienia jest wyżej zamieszczone sprawozdanie. Wiem, że układ Wojtka Leszczyńskiego testowany był na spotkaniu z prowadzącym. Potwierdzenia w sprawozdaniu brak.
+
+
+
 2. Komunikacja RF
 
 2.1 Obsługa UART/USB
@@ -107,6 +121,14 @@ Drugi Deadline : 11.01.2023 włącznie.
 Rezultat : Praca w toku, monitorowana przez prowadzącego.
 
 Trzeci Deadline : 15.01.2023 włącznie.
+
+
+[Sprawozdanie.pdf](https://github.com/Ruciorr/Projekt-Mikroprocesory/files/10702215/Sprawozdanie.pdf)
+
+
+Podsumowanie: Podsumowaniem pracy Adama jest powyższe sprawozdanie.
+
+
 
 2.2 Biblioteka
 
@@ -130,6 +152,12 @@ zmniejszenie odległości.
 
 
 
+
+Podsumowanie: Ze względu na notoryczne obsuwy punkt nie zrealizowany.
+
+
+
+
 2.4 Integracje ( po wykonanym punkcie 1.1.1 / 1.2.1 / 3)
 
 Odpowiedzialny za zadanie : Kacper Musiał
@@ -140,6 +168,10 @@ Wstępny deadline : Deadline wstrzymany do czasu, aż koledzy uporają się ze s
 - Implementacja.
 - sprawozdanie (do mnie/github/ ma być zrozumiałe)
 - Finalizacja projektu.
+
+
+
+Podsumowanie: Ze względu na notoryczne obsuwy punkt nie zrealizowany.
 
 
 
@@ -175,6 +207,9 @@ Trzeci Deadline : 15.01.2023 włącznie.
 Dokumentacja produkcyjna:
 - pliki GERBER
 - BOM ( wykaz elementów będących na płytce)
+
+
+Podsumowanie: Pracę podsumowywują powyżesze zdjęcia schematów.
 
 
 Wykaz zakupionych elemnetów, nazwa, ilość, cena.
