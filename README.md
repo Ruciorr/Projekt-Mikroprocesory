@@ -153,7 +153,7 @@ zmniejszenie odległości.
 
 
 
-Podsumowanie: Ze względu na notoryczne obsuwy punkt nie zrealizowany.
+Podsumowanie: Ze względu na notoryczne obsuwy punkt niezrealizowany.
 
 
 
