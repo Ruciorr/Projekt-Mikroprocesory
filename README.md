@@ -98,7 +98,10 @@ Trzeci Deadline : 15.01.2023 włącznie.
 
 
 
-Podsumowanie: Efektem pracy tego zagadnienia jest wyżej zamieszczone sprawozdanie. Wiem, że układ Wojtka Leszczyńskiego testowany był na spotkaniu z prowadzącym. Potwierdzenia w sprawozdaniu brak.
+[Sprawozdanie-tw-lw-drugie.docx](https://github.com/Ruciorr/Projekt-Mikroprocesory/files/10707270/Sprawozdanie-tw-lw-drugie.docx)
+
+
+Podsumowanie: Efekt pracy grupy zawarty w powyższym sprawozdaniu.
 
 
 
